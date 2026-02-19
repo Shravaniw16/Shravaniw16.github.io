@@ -1,26 +1,32 @@
-# 📱 Responsive Website Using CSS Media Queries
+#  Static Website Deployment Using GitHub Pages
 
-This project is part of my **Web Development Internship – Task 4**.  
-The objective of this task was to convert an existing **desktop-only webpage** into a **mobile-friendly responsive website** using **CSS media queries**.
+This project is part of my **Web Development Internship – Task 5**.  
+The objective of this task was to **deploy a static website online** using **GitHub Pages** and make it publicly accessible through a live URL.
 
 ---
 
-## Objective
+##  Objective
 
-- Make a desktop website responsive for mobile devices
-- Use CSS media queries to handle different screen sizes
-- Improve layout, readability, and usability on small screens
-- Test responsiveness using Chrome DevTools
+- Deploy a static website (HTML & CSS)
+- Use GitHub Pages for hosting
+- Make the website accessible via a public URL
+- Understand basic deployment workflow
 
 ---
 
 ##  Technologies Used
 
-- **HTML5** – Page structure
-- **CSS3** – Styling and responsive design
-- **CSS Media Queries** – Mobile responsiveness
-- **VS Code** – Code editor
-- **Chrome DevTools** – Testing mobile views
+- **HTML5** – Website structure  
+- **CSS3** – Styling and responsiveness  
+- **GitHub** – Version control and hosting  
+- **GitHub Pages** – Static website deployment  
+- **VS Code** – Code editor  
+
+
+
+
+
+
 
 
 
